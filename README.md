@@ -12,23 +12,33 @@ and identifies who owes whom.
 The project uses fives friends:
 
 -Vasu
+
 -Kavya
+
 -Vino
+
 -Siva
+
 -Zara
 
 ## Technologies Used
 
 -Python
+
 -Jupyter Notebook
 
 ## Project Features
 
 -Add friends
+
 -Add shared expenses
+
 -Calculate individual expense shares
+
 -Calculate net balances
+
 -Determine who owes whom
+
 -Generate final settlement
 
 ## Expense Sharing Example
@@ -46,7 +56,9 @@ The application generates a settlement showing the actual transactions between p
 Example:
 
 Zara owes Kavya: Rs.150.00
+
 Vino owes Kavya: Rs.66.67
+
 Vino owes Vasu: Rs.150.00
 
 ## Project Files
