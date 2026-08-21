@@ -1,6 +1,6 @@
 # Google Pay Expense Sharing
 
-## Project Overview
+## 📌Project Overview
 
 This project is a Python-based expense-sharing application that helps a group of friends split
 shared expenses and calculate the final settlement.
@@ -8,7 +8,7 @@ shared expenses and calculate the final settlement.
 The project calculates individual expense shares, determines each person's  net balance,
 and identifies who owes whom.
 
-## Friends
+## 👥Friends
 The project uses fives friends:
 
 -Vasu
@@ -21,13 +21,13 @@ The project uses fives friends:
 
 -Zara
 
-## Technologies Used
+## 🛠️Technologies Used
 
 -Python
 
 -Jupyter Notebook
 
-## Project Features
+## 🔑Project Features
 
 -Add friends
 
@@ -41,7 +41,7 @@ The project uses fives friends:
 
 -Generate final settlement
 
-## Expense Sharing Example
+## 💰Expense Sharing Example
 
 For example, if Vasu pays Rs.500 and the expense is shared by five people:
 
@@ -49,7 +49,7 @@ Rs.500/5 = Rs.100 per person
 
 The application calculates the expenses for all participants and determines the final amount each person should pay or receive.
 
-## Final Settlement
+## 💵Final Settlement
 
 The application generates a settlement showing the actual transactions between participants.
 
@@ -61,7 +61,7 @@ Vino owes Kavya: Rs.66.67
 
 Vino owes Vasu: Rs.150.00
 
-## Project Files
+## 📁Project Files
 ### Googlepay Expense Sharing.ipynb
 
 Jupyter Notebook containing the Python code, expense calculations, and output.
@@ -70,7 +70,7 @@ Jupyter Notebook containing the Python code, expense calculations, and output.
 
 Python application that can be executed through Command Prompt to calculate the expense settlement.
 
-## How It Works
+## ⚙️How It Works
 
 1. Add the list of friends.
 2. Add each expense and the participants sharing it.
@@ -79,7 +79,7 @@ Python application that can be executed through Command Prompt to calculate the 
 5. Determine who owes whom.
 6. Display the final settlement.
 
-## Conclusion
+## 🎯Conclusion
 
 This project demonstrates the use of Python programming and logical problem-solving
 to automate expense sharing and settlement among a group of people.
